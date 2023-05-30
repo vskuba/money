@@ -1,5 +1,5 @@
 {
-    "name": "vskuba/money",
+    "name": "moneyphp/money",
     "description": "PHP implementation of Fowler's Money pattern",
     "license": "MIT",
     "keywords": [
